@@ -19,7 +19,7 @@
 /**
 
 * @project_name : SIGMA-MD
-* @Developer : Maher-Zubair
+* @Developer : AℓᎥ♛
 * @Version : v.1.5.3
 * @license : Apache-2.0
 
@@ -28,7 +28,7 @@ So, No One Have Permission To Copy This Project,
 Reupload, Reversed Engineering And Any Kind Of Deobfuscation.
 Otherwise, A Legal Github Copyright Action Will Be Taken Against You
 Which Result In Removing The Copied Project And Permanantly Banning Of Your Account.
-* @Copyright_owner : Maher-Zubair
+* @Copyright_owner : Ali
 
 **/
 
