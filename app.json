@@ -1,7 +1,7 @@
 {
-  "name": "SIGMA-MD WHATSAPP BOT BY MAHER ZUBAIR",
+  "name": "SIGMA-MD WHATSAPP BOT BY AℓᎥ♛",
   "description": "A Whatsapp Bot With Most Premium Features Makes Your Whatsapp Premium. For Any Help See My YT:https://www.youtube.com/@InnoxentTech",
-  "logo": "https://telegra.ph/file/31cf6b4e5e20bb23e2aca.mp4",
+  "logo": "https://telegra.ph/file/9812dbe1fbed9eebf718c.jpg",
   "keywords": [
     "nodejs",
     "bot",
@@ -22,7 +22,7 @@
     },
     "THUMB_IMAGE": {
       "description": "THUMBNAIL Image for bot.",
-      "value": "https://telegra.ph/file/03e49e6e2057568db8926.jpg"
+      "value": "https://telegra.ph/file/9812dbe1fbed9eebf718c.jpg"
     },
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
@@ -89,7 +89,7 @@
     },
     "MZTIT": {
       "description": "Add Your Title, One Word Will BE More Better And BeautiFul",
-      "value": "🅼♥︎❚❚♥︎🆉",
+      "value": "❤️🍭𝙺𝗈𝗺ăl♛♥︎❚❚♥︎AℓᎥ♛",
       "required": false
     },
     "TIME_ZONE": {
